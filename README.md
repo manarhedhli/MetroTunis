@@ -29,4 +29,4 @@ This is a mobile application that allows users to track the Tunis metro system a
 #### Page Displaying the Next Departure Time for Each Station
 ![Next Departure](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/NextDeparture.jpg | width=100)
 #### Settings Page, Dark Theme
-![Setting - Dark Theme](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/DarkTheme.jpg | width=100)
+![Settings - Dark Theme](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/DarkTheme.jpg =250x)
