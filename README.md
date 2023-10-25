@@ -19,14 +19,14 @@ This is a mobile application that allows users to track the Tunis metro system a
 ## Screenshots 
 
 #### Splash Screen
-![Splash Screen](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/SplashScreen.jpg|width=100)
+![Splash Screen](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/SplashScreen.jpg)
 #### Home Page Displaying All Lines
-![Home](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/Home.jpg|width=100)
+![Home](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/Home.jpg)
 #### Favorite Lines
-![Favorite Lines](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/Favorite.jpg|width=100)
+![Favorite Lines](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/Favorite.jpg)
 #### Map of a Specific Line
-![Map](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/Map.jpg|width=100)
+![Map](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/Map.jpg)
 #### Page Displaying the Next Departure Time for Each Station
-![Next Departure](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/NextDeparture.jpg|width=100)
+![Next Departure](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/NextDeparture.jpg)
 #### Settings Page, Dark Theme
-![Settings - Dark Theme](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/DarkTheme.jpg|width=100)
+![Settings - Dark Theme](https://github.com/manarhedhli/MetroTunis/blob/master/assets/screenshots/DarkTheme.jpg)
